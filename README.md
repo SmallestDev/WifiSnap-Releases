@@ -14,7 +14,7 @@ The app includes an automatic update system.
 
 Every time you open WifiSnap it checks this repository for a new version. On Wi-Fi it downloads it in the
 background, verifies its checksum and signature, and then shows an **update** button at the top of the camera
-screen. Tap it and then tap "Install" when Android asks. Your settings stay as they are.
+screen. Tap it and then tap "Install" when Android asks.
 
 ## Installation
 1. Download `WifiSnap-android-<version>.apk` on your phone (Android 8.0 or later, ARM phones)
