@@ -1,6 +1,6 @@
 # WifiSnap
 
-Releases of **WifiSnap** (와이파이 찰칵), an Android app that connects you to Wi-Fi from the note on a café wall.
+Releases of **WifiSnap**, an Android app that connects you to Wi-Fi from the note on a café wall.
 Point your camera at the paper with the network name and password and it joins that network. No QR code needed:
 two plain lines are enough, and labeled notes (`ID / PW`, `와이파이 이름 / 비밀번호`) work too. Text is read on your
 phone in Korean and English, and the name is matched against the networks around you so OCR mix-ups like `O`/`0`
